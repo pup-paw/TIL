@@ -24,7 +24,7 @@ Red to Green : test 코드를 통해 `Red(fail)`를 띄운 후 production 코드
             + 메서드 명을 한글로 작성한 후 @SuppressWarnings를 통해 warning을 끔
 
         - 하나의 기능을 한번에 테스트하기 어렵다면, 메서드를 더 작게 나누어 tset 코드를 작성해 볼 수 있음
-        
+
     2. production 코드 작성
 
         - production 코드는 최소한으로 test가 통과하도록 구현
@@ -61,7 +61,7 @@ Red to Green : test 코드를 통해 `Red(fail)`를 띄운 후 production 코드
 ### 단축키
 
     상수화 : option + command + C
-    메서드화 : option + comman + M
+    메서드화 : option + command + M
 
 ### test code
 
