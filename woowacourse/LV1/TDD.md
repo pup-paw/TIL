@@ -58,11 +58,6 @@ Red to Green : test 코드를 통해 `Red(fail)`를 띄운 후 production 코드
 
     이 commit은 기능과 관련된 것이므로 feat: 메세지를 사용한다.
 
-### 단축키
-
-    상수화 : option + command + C
-    메서드화 : option + command + M
-
 ### test code
 
     1. private 메서드에 대한 test는 어떻게 진행하면 좋을까?
