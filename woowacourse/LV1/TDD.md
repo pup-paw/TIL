@@ -1,5 +1,19 @@
 # TDD (Test Driven Development : 테스트 주도 개발)
 
+## TDD 란?
+
+    TDD = TFD(Test First Development) + 리팩터링
+
+### TDD를 하는 이유
+
+- 디버깅 시간을 줄여줌
+
+- 동작하는 문서 역할을 함
+
+- 변화에 대한 두려움을 줄여줌
+
+---
+
 ## 프로그래밍 순서
 
 <br>
