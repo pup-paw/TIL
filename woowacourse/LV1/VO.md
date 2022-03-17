@@ -6,7 +6,7 @@
 
     속성값이 같은 객체는 같은 객체임을 보장하며 사용할 수 있음
 
-참고 : [동일성과 동등성]()
+참고 : [동일성과 동등성](https://github.com/pup-paw/TIL/blob/main/woowacourse/LV1/identity_equality.md)
 
 ### 2. 수정자(setter)가 없는 불변 객체여야 한다.
 
